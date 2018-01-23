@@ -1,7 +1,7 @@
 {
-  "name": "@angular/cli",
+  "name": "@sedpro/cli-multiple-entries",
   "version": "1.7.0-beta.1",
-  "description": "CLI tool for Angular",
+  "description": "CLI tool for Angular with ability to have multiple entries",
   "main": "packages/@angular/cli/lib/cli/index.js",
   "trackingCode": "UA-8594346-19",
   "bin": {
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/angular/angular-cli.git"
+    "url": "https://github.com/sedpro/angular-cli.git"
   },
   "engines": {
     "node": ">= 6.9.0",
